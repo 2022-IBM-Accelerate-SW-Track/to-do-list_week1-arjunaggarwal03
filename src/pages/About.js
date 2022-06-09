@@ -14,6 +14,7 @@ export default class About extends Component {
               alt="Profile Pic"
             ></img>
           </div>
+        </div>
         <div className="split right">
           <div className="centered">
             <div className="name_title">Arjun Aggarwal</div>
